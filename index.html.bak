@@ -10,7 +10,6 @@
 
 <body>
 <h1> Music Player </h1>
-<h1> Music Player2 </h1>
 <div>
     <audio id="Mus1" controls>
         <source src="musics/1.mp3">
