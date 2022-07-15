@@ -1,0 +1,35 @@
+body{
+	background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+}
+audio{
+    width: 400px;
+}
+#b1{
+    width: 60px;
+    height: 30px;
+    font-size: 12pt;
+}
+#b2{
+    margin-left: 0%;
+    width: 60px;
+    height: 30px;
+    font-size: 12pt;
+}
+p{
+    font-size: 17pt;
+    width: 400px;
+}
+div{
+    background-color: lightgray;
+    width: 400px;
+    margin: 50px auto;
+    height: auto;
+}
+span{
+    line-height: 24px;
+    width: 90%;
+    display: block;
+    padding: 10px 20px;
+    border-bottom: solid 1px black;
+}
+span:last-child { border-bottom: none; }
